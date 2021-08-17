@@ -1,5 +1,7 @@
 # project-planner
 
+VueJS Todolist | Luc Cui
+[Xem demo tại đây](https://611b4126a47942ae84ad44e0--jovial-kirch-249b75.netlify.app/)
 ## Project setup
 ```
 npm install
