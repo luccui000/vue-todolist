@@ -1,1 +1,1 @@
-export const PROJECTS_ENDPOINT = 'http://localhost:3000/projects';
+export const PROJECTS_ENDPOINT = 'https://vue-todolist-server.herokuapp.com/projects';
